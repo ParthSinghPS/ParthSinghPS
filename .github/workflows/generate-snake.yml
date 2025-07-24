@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *" # every day at midnight
   workflow_dispatch: # allows manual trigger
 
+permissions:
+  contents: write # ✅ This line gives push permissions
+
 jobs:
   generate:
     runs-on: ubuntu-latest
