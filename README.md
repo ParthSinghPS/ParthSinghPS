@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20240703105922/What-is-Ethereum.webp" width="1000"/>
-</p>
+
 
 # Hi 👋, I'm Parth Singh.
 
@@ -25,48 +23,47 @@
 
 ---
 
-### Languages and Tools  
+## Tech Stack
 
-<p align="center">
-  <!-- Row 1 -->
-  <a href="https://ethereum.org"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/70a5aff1-879b-4632-9902-0a0db68ec23c" /></a>&nbsp;&nbsp;
-  <a href="https://soliditylang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="https://hardhat.org"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9d3176fc-175a-420c-89a3-6aa29008ba74" />
-</a>&nbsp;&nbsp;
-  <a href="https://book.getfoundry.sh"><img src="https://avatars.githubusercontent.com/u/100882326?s=200&v=4" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="https://remix.ethereum.org"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/76ae1627-9b34-4661-aaed-5c868c40302e" />
-</a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://ethereum.org"><img width="50" height="50" src="https://github.com/user-attachments/assets/70a5aff1-879b-4632-9902-0a0db68ec23c"/></a><br/>Ethereum</td>
+    <td align="center"><a href="https://soliditylang.org"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"/></a><br/>Solidity</td>
+    <td align="center"><a href="https://chain.link"><img width="50" height="50" src="https://cryptologos.cc/logos/chainlink-link-logo.png"/></a><br/>Chainlink</td>
+    <td align="center"><a href="https://getfoundry.sh"><img width="50" height="50" src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4"/></a><br/>Foundry</td>
+    <td align="center"><a href="https://docs.ethers.org"><img width="50" height="50" src="https://docs.ethers.org/v5/static/logo.svg"/></a><br/>ethers.js</td>
+    <td align="center"><a href="https://remix.ethereum.org"><img width="50" height="50" src="https://remix.ethereum.org/assets/img/remix-logo-blue.png"/></a><br/>Remix</td>
+    <td align="center"><a href="https://hardhat.org"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg"/></a><br/>Hardhat</td>
+  </tr>
 
-<p align="center">
-  <!-- Row 2 -->
-  <a href="https://ipfs.io"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/02b26f57-be79-48e3-b842-9c450a224cca" />
-</a>&nbsp;&nbsp;
-  <a href="https://bitcoin.org"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/59fa6a0e-b521-4961-a532-8f3204d9d8de" />
-</a>&nbsp;&nbsp;
-  <a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="https://reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="https://tailwindcss.com"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e53d1b04-18b0-45a0-b228-ce18d638af76" />
-</a>
-</p>
+  <tr>
+    <td align="center"><a href="https://ipfs.tech"><img width="50" height="50" src="https://docs.ipfs.tech/images/ipfs-logo.svg"/></a><br/>IPFS</td>
+    <td align="center"><a href="https://bitcoin.org"><img width="50" height="50" src="https://cryptologos.cc/logos/bitcoin-btc-logo.png"/></a><br/>Bitcoin</td>
+    <td align="center"><a href="https://nextjs.org"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/></a><br/>Next.js</td>
+    <td align="center"><a href="https://reactjs.org"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a><br/>React</td>
+    <td align="center"><a href="https://www.typescriptlang.org"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></a><br/>TypeScript</td>
+    <td align="center"><a href="https://tailwindcss.com"><img width="50" height="50" src="https://github.com/user-attachments/assets/e53d1b04-18b0-45a0-b228-ce18d638af76"/></a><br/>Tailwind</td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a><br/>JavaScript</td>
+  </tr>
 
-<p align="center">
-  <!-- Row 3 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/></a>
-</p>
+  <tr>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a><br/>HTML5</td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a><br/>CSS3</td>
+    <td align="center"><a href="https://nodejs.org"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a><br/>Node.js</td>
+    <td align="center"><a href="https://expressjs.com"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/></a><br/>Express</td>
+    <td align="center"><a href="https://www.postgresql.org"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></a><br/>PostgreSQL</td>
+    <td align="center"><a href="https://redis.io"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/></a><br/>Redis</td>
+    <td align="center"><a href="https://www.mongodb.com"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a><br/>MongoDB</td>
+  </tr>
 
-<p align="center">
-  <!-- Row 4 -->
-  <a href="https://expressjs.com"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0f458825-ec0a-4307-acb9-f869fea58b21" />
-</a>&nbsp;&nbsp;
-  <a href="https://firebase.google.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="https://github.com"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1f70e5d7-29a8-494d-9353-6f6de437e142" />
-</a>&nbsp;&nbsp;
-  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50"/></a>
-</p>
+  <tr>
+    <td align="center"><a href="https://firebase.google.com"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"/></a><br/>Firebase</td>
+    <td align="center"><a href="https://www.rust-lang.org"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg"/></a><br/>Rust</td>
+    <td align="center"><a href="https://www.cplusplus.com"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></a><br/>C++</td>
+    <td align="center"><a href="https://www.python.org"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a><br/>Python</td>
+    <td align="center"><a href="https://git-scm.com"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a><br/>Git</td>
+    <td align="center"><a href="https://www.docker.com"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></a><br/>Docker</td>
+    <td align="center"><a href="https://www.postman.com"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/></a><br/>Postman</td>
+  </tr>
+</table>
 
